@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 
 I am now in GitHub
 Adding one more line to check pull command
+
+This is to check branch pushing to GitHub
